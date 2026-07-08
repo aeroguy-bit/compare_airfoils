@@ -1,8 +1,6 @@
 from aeropy.xfoil_module import find_coefficients
 from numpy import linspace
 import matplotlib.pyplot as plt
-import matplotlib.patches as mpatches
-
 
 def getNACA():
     AIRFOILS = []
